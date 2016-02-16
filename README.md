@@ -7,7 +7,7 @@
 <%
 
 var assert = require("assert");
-assert.equal('abc', 123);
+assert.equal("abc", 123);
 
 %>
 ```
